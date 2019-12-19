@@ -1,5 +1,6 @@
 export default {
     MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_6UJqzvdVspSDWuI3slAaztJn00sO3ivj0p",
     s3: {
       REGION: "YOUR_S3_UPLOADS_BUCKET_REGION",
       BUCKET: "jed-notes-app-uploads"
